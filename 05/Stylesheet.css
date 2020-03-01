@@ -1,0 +1,26 @@
+
+p.rside{
+    border: 1px dotted black;
+	float: right;
+	width: 200px;
+	padding: 8px;
+	margin: 0 0 0 14px;
+
+}
+p.lside {
+    border: 1px dotted black;
+	float: left;
+	width: 200px;
+	padding: 8px;
+	margin: 0 14px 0 0;
+    
+}
+ 
+div {
+	width: 50%;
+}
+
+html{
+    margin-left: 100px;
+    margin-right: 50px;
+}
